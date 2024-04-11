@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\UNIVERSIDAD\HERENCIA EJERCICIO\Desafio2herencia\Desafio2herencia\bin\Debug\Desafio2herencia.exe.config
+C:\Users\georg\Desktop\UNIVERSIDAD\HERENCIA EJERCICIO\Desafio2herencia\Desafio2herencia\bin\Debug\Desafio2herencia.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\HERENCIA EJERCICIO\Desafio2herencia\Desafio2herencia\bin\Debug\Desafio2herencia.pdb
+C:\Users\georg\Desktop\UNIVERSIDAD\HERENCIA EJERCICIO\Desafio2herencia\Desafio2herencia\obj\Debug\Desafio2herencia.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\HERENCIA EJERCICIO\Desafio2herencia\Desafio2herencia\obj\Debug\Desafio2herencia.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\HERENCIA EJERCICIO\Desafio2herencia\Desafio2herencia\obj\Debug\Desafio2herencia.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\HERENCIA EJERCICIO\Desafio2herencia\Desafio2herencia\obj\Debug\Desafio2herencia.pdb
